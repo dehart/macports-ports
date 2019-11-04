@@ -3,10 +3,10 @@
 PortSystem          1.0
 PortGroup           github 1.0
 
-github.setup        sass libsass 3.6.2
-checksums           rmd160  2f33aeddb5716d4da29a9f37dd788527f799eccc \
-                    sha256  aa615c75c80e7a8589178af4cb34bb2e6789a8f08262a5f6da168d9c9ca3867d \
-                    size    331062
+github.setup        sass libsass 3.6.3
+checksums           rmd160  11ff388c0b18bf464e1dc0364327ce50486920e9 \
+                    sha256  b44380931c05d250a1abcc3f5f6aa8740c8b69facd5f88821fdd062c21a6a30b \
+                    size    331391
 
 maintainers         {cal @neverpanic} openmaintainer
 categories          www textproc
